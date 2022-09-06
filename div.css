@@ -1,0 +1,38 @@
+.div {
+    margin-top: 70px;
+}
+
+.list__header {
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 19.92px;
+}
+
+.table {
+    border-collapse: collapse;
+    text-align: center;
+    background-color: rgb(228, 224, 224);
+}
+
+.table__cell {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.table__header {
+    background-color: rgb(20, 50, 137);
+    color: white;
+}
+
+.table__row:nth-child(even) {
+    background-color: #eee;
+}
+
+.table__row:hover {
+    background-color: #ddd;
+}
+
+.table__header--color {
+    background-color: rgb(60, 94, 198);
+}

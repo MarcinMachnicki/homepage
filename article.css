@@ -1,0 +1,25 @@
+.article {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 32px;
+  border: 1px solid #000000;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  margin-top: 70px;
+}
+
+.article__header {
+  font-size: 30px;
+}
+
+.article--noBorder {
+  border: none;
+}
+
+.article--backgroundColor {
+  background-color: rgb(228, 224, 224);
+}
+
+.article__content {
+  padding: 0px 15px;
+}
