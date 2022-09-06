@@ -7,9 +7,5 @@ let themeName = document.querySelector(".js-themeName");
 press.addEventListener("click", () => {
   body.classList.toggle("green");
 
-  if (body.classList.contains("green")) {
-    themeName.innerText = "biały";
-  } else {
-    themeName.innerText = "zielony";
-  }
+  themeName.innerText = body.classList.contains("green") ? "biały" : "zielony";
 }); 
