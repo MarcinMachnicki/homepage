@@ -1,8 +1,9 @@
-# Marcin Machnicki - Moja strona
-![Marcin](https://raw.githubusercontent.com/MarcinMachnicki/homepage/main/images/ja.jpg)
+# Homepage
+
 
 ## Demo
 
 https://marcinmachnicki.github.io/homepage/
 
-## Opis
+## Tech
+![HTML](https://github.com/MarcinMachnicki/homepage/blob/3d9c106b5cc1dd2facedec00292cd9c0046c1504/images/Untitled-1.png)
