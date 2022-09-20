@@ -40,7 +40,7 @@ html {
 }
 
 .button {
-  background: #4baa7f;
+  background: #0d0d0d;
   border-radius: 8px;
   padding: 12px 28px;
   font-style: normal;
@@ -60,8 +60,8 @@ html {
   margin: 13px 6px;
 }
 
-.green {
-  background: rgb(199, 217, 172);
+.change__color {
+  background: rgb(135, 135, 133);
 }
 
 .nav__list {
