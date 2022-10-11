@@ -5,6 +5,7 @@ My names is Marcin Machnicki and this is my page about me.
 https://marcinmachnicki.github.io/homepage/
 
 ## Preview
+![gif](https://raw.githubusercontent.com/MarcinMachnicki/homepage/main/images/gif.gif)
 
 ## Tech
 ![HTML](https://github.com/MarcinMachnicki/homepage/blob/9c629847fc1c63d7617ccb319811b7c2686302d4/images/Untitled-1.png)
